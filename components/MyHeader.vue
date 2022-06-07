@@ -5,7 +5,7 @@
         <img src="~/assets/images/logo.png" alt="" title="" />
       </a><!-- logo-top -->
 
-      <h1>We Make Great Games and Apps.</h1>
+      <h1>When a bad idea is the only idea, it becomes a great idea.</h1>
     </div><!-- wrapper -->
   </header>
 </template>
