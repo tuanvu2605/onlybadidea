@@ -3,8 +3,8 @@
     <div class="wrapper">
       <div class="info-bottom">
         <img src="~/assets/images/logo-bottom.png" alt="" title="" />
-        <p>© 2022 Gamma Play. All Rights Reserved. <a href="http://gammaplay.com/privacy_policy.php"><br>
-          Privacy Policy</a> | <a href="http://gammaplay.com/tos.php">Terms of Service</a></p>
+        <p>© 2022 Gamma Play. All Rights Reserved. <a href="/privacy_policy"><br>
+          Privacy Policy</a> | <a href="/">Terms of Service</a></p>
       </div><!-- info-bottom -->
 
       <div class="footer-middle-wrapper">

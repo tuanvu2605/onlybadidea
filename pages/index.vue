@@ -54,3 +54,6 @@ export default {
   components: {MyFooter, MyHeader}
 }
 </script>
+<style>
+@import "assets/css/style.css";
+</style>
