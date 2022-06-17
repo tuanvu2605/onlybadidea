@@ -4,7 +4,7 @@
 
     <div class="header" >
 
-      <h1><a href="http://www.gammaplay.com"><img src="~/assets/images/logo.png"></a></h1>
+      <h1><a href="http://www.onlybadidea.com"><img src="~/assets/images/logo.png"></a></h1>
 
       <p>&nbsp;</p>
       <p style="font: 25px Verdana, Helvetica, sans-serif;"><strong>Privacy policy</strong></p>
@@ -94,7 +94,7 @@
       <p><b>4. How long we store your personal information</b></p>
       <p>We keep your personal information for no longer than necessary for the purposes for which the personal information is processed. The length of time for which we retain personal information depends on the purposes for which we collect and use it and/or as required to comply with applicable laws and to establish, exercise or defend our legal rights.</p>
       <p><b>5. Your rights</b></p>
-      <p>5.1 You have certain rights in relation to your personal information. If you would like further information in relation to these or would like to exercise any of them, please contact us via email at gammaplay.com@gmail.com at any time. You have the following rights:<br>
+      <p>5.1 You have certain rights in relation to your personal information. If you would like further information in relation to these or would like to exercise any of them, please contact us via email at onlybadidea.com@gmail.com at any time. You have the following rights:<br>
         <span class="tab"></span>(a) Right of access. You have a right of access to any personal information we hold about you. You can ask us for a copy of your personal information; confirmation as to whether your personal information is being used by us; details about how and why it is being used; and details of the safeguards which are in place if we transfer your information outside of the European Economic Area ("EEA"). <br>
         <span class="tab"></span>(b) Right to update your information. You have a right to request an update to any of your personal information which is out of date or incorrect.<br>
         <span class="tab"></span>(c) Right to delete your information. You have a right to ask us to delete any personal information which we are holding about you in certain specific circumstances. You can ask us for further information on these specific circumstances by contacting us using the details in section 10. </p>
@@ -109,7 +109,7 @@
       <p><b>6. Children</b></p>
       <p>6.1 You must be aged 16 or over to purchase products or services from us. Our website and services are not directed at children younger than this and we do not knowingly collect any personal information from children younger than this.</p>
       <p>6.2 If you are aged below the age of 16 and we learn that we have inadvertently obtained personal information from you from our websites, or from any other source, then we will delete that information as soon as possible.</p>
-      <p>6.3 Please contact us at gammaplay.com@gmail.com if you are aware that we may have inadvertently collected personal information from a child below the age of 16.</p>
+      <p>6.3 Please contact us at onlybadidea.com@gmail.com if you are aware that we may have inadvertently collected personal information from a child below the age of 16.</p>
       <p><b>7. Where we may transfer your personal information</b></p>
       <p>7.1. Your personal information will be used, stored and/or accessed by staff operating outside the EEA working for us, other members of our group or suppliers, including those located in the United States of America. Further details on to whom your personal information may be disclosed are set out in section 3.</p>
       <p>7.2	When we provide any personal information about you to any such non-EEA members of our group or suppliers, we will take appropriate measures to ensure that the recipient protects your personal information adequately. These measures may include the following, as permitted in Articles 45 and 46 of the General Data Protection Regulation:<br>
@@ -123,7 +123,7 @@
       <p><b>9. Changes to our privacy policy</b></p>
       <p>We may update our privacy policy from time to time. Any changes we make to our privacy policy in the future will be made available to you via the privacy policy, accessible in our app. Please check back frequently to see any updates or changes to our privacy policy.</p>
       <p><b>10. Further questions and how to make a complaint</b></p>
-      <p>10.1 If you have any queries or complaints about our collection, use or storage of your personal information, or if you wish to exercise any of your rights in relation to your personal information, please contact gammaplay.com@gmail.com. We will investigate and attempt to resolve any such complaint or dispute regarding the use or disclosure of your personal information.</p>
+      <p>10.1 If you have any queries or complaints about our collection, use or storage of your personal information, or if you wish to exercise any of your rights in relation to your personal information, please contact onlybadidea.com@gmail.com. We will investigate and attempt to resolve any such complaint or dispute regarding the use or disclosure of your personal information.</p>
       <p>10.2 In accordance with Article 77 of the General Data Protection Regulation, you may also make a complaint to the Information Commissioner's Office, or the data protection regulator in the country where you usually live or work, or where an alleged infringement of the General Data Protection Regulation has taken place. Alternatively, you may seek a remedy through the courts if you believe your rights have been breached.</p>
       <p>The practices described in this privacy policy statement are current as of 15 Jan 2019.</p>
       <p>&nbsp;</p>
