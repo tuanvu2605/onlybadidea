@@ -21,7 +21,9 @@
         <div class="footer-middle">
           <h4 class="blue">公司名</h4>
           <p style="font-size:18px; color:black">深圳市地平线视野科技有限公司</p>
-          <h4 class="red">注册地址</h4>
+          <h4 class="blue">统一社会信用代码</h4>
+          <p style="font-size:18px; color:black">91440300MAE3WEG85G</p>
+          <h4 class="blue">注册地址</h4>
           <p  style="font-size:18px; color:black">深圳市南山区南头街道大汪山社区南山大道2032号时代骄子大厦B1020</p>
         </div><!-- footer-middle -->
       </div><!-- footer-middle-wrapper -->
