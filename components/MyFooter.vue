@@ -2,30 +2,32 @@
   <footer class="footer">
     <div class="wrapper">
       <div class="info-bottom">
-        <img src="~/assets/images/logo-bottom.png" alt="" title="" />
-        <p>© 2022 Only Bad Idea. All Rights Reserved. <a href="/privacy_policy"><br>
-          Privacy Policy</a> | <a href="/">Terms of Service</a></p>
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <img src="~/assets/images/phone.png" style="width:36px; height:36px" ></img>
+          <p style="font-size:18px; color:black">19966246981</p>
+        </div>
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <img src="~/assets/images/qq.png" style="width:36px; height:36px" ></img>
+          <p style="font-size:18px; color:black">24464194417@qq.com</p>
+        </div>
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <img src="~/assets/images/wechat.png" style="width:36px; height:36px" ></img>
+          <p style="font-size:18px; color:black">dipingxian_keji</p>
+        </div>
+        <p>© 2025 地平线视野. All Rights Reserved.</p>
       </div><!-- info-bottom -->
 
       <div class="footer-middle-wrapper">
         <div class="footer-middle">
-          <h4 class="blue">CONTACT / SUPPORT</h4>
-          <p>Contact us if you need any help or would like to publish your new app or game with us. <br>
-            Email &#103;&#097;&#109;&#109;&#097;&#112;&#108;&#097;&#121;&#046;&#099;&#111;&#109;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</p>
-          <h4 class="red">YOUTUBERS</h4>
-          <p>You have our permission to use game footage and post what you have on YouTube.</p>
+          <h4 class="blue">公司名</h4>
+          <p style="font-size:18px; color:black">深圳市地平线视野科技有限公司</p>
+          <h4 class="red">注册地址</h4>
+          <p  style="font-size:18px; color:black">深圳市南山区南头街道大汪山社区南山大道2032号时代骄子大厦B1020</p>
         </div><!-- footer-middle -->
       </div><!-- footer-middle-wrapper -->
 
       <div class="social">
-        <h4>SOCIAL MEDIA</h4>
-        <div class="twitter">
-          <a href="https://twitter.com/onlybadidea" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @onlybadidea</a>
-        </div><!-- twitter -->
-        <div class="facebook">
-          <div class="fb-like" data-href="https://www.facebook.com/onlybadidea/" data-width="240"  data-layout="standard" data-action="like" data-size="large" data-show-faces="false" data-share="true" data-colorscheme="light">
-          </div><!-- facebook -->
-        </div><!-- social -->
+        <h4>ICP备案号</h4>
       </div><!-- wrapper -->
     </div>
   </footer><!-- footer -->

@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'When a bad idea is the only idea, it becomes a great idea.',
+    title: '深圳市地平线视野科技有限公司',
     htmlAttrs: {
       lang: 'en'
     },

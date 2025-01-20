@@ -1,11 +1,9 @@
 <template>
   <header class="header">
     <div class="wrapper">
-      <a href="" class="logo-top">
-        <img src="~/assets/images/logo.png" alt="" title="" />
-      </a><!-- logo-top -->
+      <p style="color: white; font-size:35px;">深圳市地平线视野科技有限公司</p>
 
-      <h1>When a bad idea is the only idea, it becomes a great idea.</h1>
+      <h1>我们努力创造优质产品，解决用户的问题，为Harmony OS Next生态系统的发展贡献力量。</h1>
     </div><!-- wrapper -->
   </header>
 </template>
